@@ -190,5 +190,3 @@ RUN \
 
 # Define default command.
 CMD ["/usr/bin/supervisord","-c","/etc/supervisor/supervisord.conf"]
-
-
